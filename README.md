@@ -1,0 +1,2 @@
+This "Global Carbon Emission and How to Reduce It" project focuses on analyzing and visualizing carbon emission data to identify reduction strategies. The project highlights key statistics, such as the highest total carbon emissions recorded in 2017 and the highest per capita emissions in 2005. It emphasizes the significant impact of the energy sector, which offers the greatest potential for emission reductions.
+![image](https://github.com/user-attachments/assets/35a3342c-62ce-4b1d-941f-ebfa2f47a1e6)
